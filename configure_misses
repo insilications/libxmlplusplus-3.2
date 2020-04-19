@@ -1,0 +1,3 @@
+Configure miss: if g++ -std=c++11 static flag -static works
+Configure miss: db2latex
+Configure miss: docbook2latex
