@@ -3,3 +3,5 @@
 glibmm-dev
 libxml2-dev
 mm-common-dev
+libxml2-staticdev
+findutils
